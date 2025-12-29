@@ -33,7 +33,7 @@ The company exhibits **structural imbalances**: hiring contraction and reduced r
 | **62 employees with 99 training hrs** | Training linked to top performance | Evidence for scaling structured training programs |
 | **1,197 promotions (Ops, 2021)** | Promotions concentrated in Operations | Career progression uneven; risk of morale issues elsewhere |
 
-[For more detailed key insights ](Detailed_Key_Insights.md)
+- [For more detailed key insights ](Detailed_Key_Insights.md)
 
 ### Data & Modeling:
 - Dataset: employee_performance_and_productivity (47,198 rows) covering the company departments, employees' performance scores, projects handled, Training hours, etc.
@@ -78,7 +78,7 @@ The company exhibits **structural imbalances**: hiring contraction and reduced r
 - That's it! You should now have a fully populated database ready for querying and further exploration.
 Feel free to modify the queries or extend the analysis. Contributions and suggestions are welcome!
 
-About Me: Data Analyst, passionate about sustainable finance. Connect on LinkedIn | View more projects [here]. Thanks for visiting!
+About Me: Data Analyst, passionate about sustainable finance. Connect on [LinkedIn](www.linkedin.com/in/vivek-sharma-b74950241) | View more projects [here]. Thanks for visiting!
 
 
 
