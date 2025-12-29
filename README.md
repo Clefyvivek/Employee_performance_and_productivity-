@@ -33,7 +33,7 @@ The company exhibits **structural imbalances**: hiring contraction and reduced r
 | **62 employees with 99 training hrs** | Training linked to top performance | Evidence for scaling structured training programs |
 | **1,197 promotions (Ops, 2021)** | Promotions concentrated in Operations | Career progression uneven; risk of morale issues elsewhere |
 
-[For more detailed key insights ](DetailedKeyInsights.md)
+[For more detailed key insights ](Employee_performance_and_productivity-/Detailed_Key_Insights.md)
 
 ### Data & Modeling:
 - Dataset: employee_performance_and_productivity (47,198 rows) covering the company departments, employees' performance scores, projects handled, Training hours, etc.
