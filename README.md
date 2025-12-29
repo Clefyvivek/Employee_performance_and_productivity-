@@ -15,23 +15,24 @@
 - Correlation Between Factors and Performance/Productivity.
 - Demographic Insights (Diversity and Equity)
 - Absenteeism and Engagement, Track attendance and satisfaction.
-- Trends Over Time Analyzing changes if dates exist (e.g., hire date, review periods).
+- Trends Over Time: Analyzing changes if dates exist (e.g., hire date, review periods).
 
 ### Key Takeaway:
 
 The company exhibits **structural imbalances**: hiring contraction and reduced resignations mask deeper issues in workload distribution, pay‑for‑performance alignment, and managerial capability; targeted interventions in workforce planning, compensation design, and training will improve productivity and equity.
 
 ### Key Insights (2020–2024 Workforce Analysis):
-| Metric / Trend | Headline Insight | Implication |
-| -------------- | ---------------- | ----------- |
-| **−32% hiring (2022→2024)** | Sharp contraction in workforce | Signals cost-cutting or slowed growth; risk of capability gaps |
-| **−34.6% resignations (2023→2024)** | Attrition declined despite hiring freeze | Suggests retention measures or limited external opportunities | 
-| **4,455 female hires (2022)** | Female hiring peaked post‑COVID | Strong DEI momentum; Operations led with 588 female hires | 
-| **Avg satisfaction 3/5** | Engagement flat across stayers/leavers | Satisfaction not predictive of churn; deeper drivers need analysis |
-| **Pay vs hours anomalies** | High pay with low hours; low pay with high hours | Compensation misalignment; fairness and productivity concerns |
-| **$7.62M salaries (Ops, 2022)** | Operations is cost center | Budget allocation review needed; peak spend in one department | 
-| **62 employees with 99 training hrs** | Training linked to top performance | Evidence for scaling structured training programs |
-| **1,197 promotions (Ops, 2021)** | Promotions concentrated in Operations | Career progression uneven; risk of morale issues elsewhere |
+| Metric / Trend | Headline Insight | Implication | Images |
+| -------------- | ---------------- | ----------- | ------ |
+| **−32% hiring (2022→2024)** | Sharp contraction in workforce | Signals cost-cutting or slowed growth; risk of capability gaps | <img width="202" height="156" alt="image" src="https://github.com/user-attachments/assets/6549f7f6-132c-4215-97c9-ee8624a215b2" />|
+| **−34.6% resignations (2023→2024)** | Attrition declined despite hiring freeze | Suggests retention measures or limited external opportunities | <img width="193" height="168" alt="image" src="https://github.com/user-attachments/assets/04795ed6-305a-4091-94d7-acb2929a45ae" /> |
+| **4,455 female hires (2022)** | Female hiring peaked post‑COVID | Strong DEI momentum; Operations led with 588 female hires | <img width="265" height="157" alt="image" src="https://github.com/user-attachments/assets/3777b610-b968-4319-91b7-3db3039b85ba" /> |
+| **Avg satisfaction 3/5** | Engagement flat across stayers/leavers | Satisfaction not predictive of churn; deeper drivers need analysis | <img width="285" height="161" alt="image" src="https://github.com/user-attachments/assets/f418bf8c-694d-4037-92e9-57763eaabc39" /> |
+| **Pay vs hours anomalies** | High pay with low hours; low pay with high hours | Compensation misalignment; fairness and productivity concerns | <img width="603" height="450" alt="image" src="https://github.com/user-attachments/assets/c17aa3d1-a438-4778-9eb8-34d12eb320ff" /> |
+| **$7.62M salaries (Ops, 2022)** | Operations is cost center | Budget allocation review needed; peak spend in one department | <img width="330" height="257" alt="image" src="https://github.com/user-attachments/assets/da32eafc-61a5-48e2-a643-5c16e61f1bd4" /> |
+| **62 employees with 99 training hrs** | Training linked to top performance | Evidence for scaling structured training programs | <img width="421" height="350" alt="image" src="https://github.com/user-attachments/assets/26073f1c-467a-45fb-8f1e-e4651dea65ce" /> |
+| **1,197 promotions (Ops, 2021)** | Promotions concentrated in Operations | Career progression uneven; risk of morale issues elsewhere | <img width="545" height="405" alt="image" src="https://github.com/user-attachments/assets/c17f09de-a6d9-4199-9b14-1a7368cb4f64" /> |
+
 
 - [For more detailed key insights ](Detailed_Key_Insights.md)
 
@@ -65,10 +66,15 @@ The company exhibits **structural imbalances**: hiring contraction and reduced r
 | **Leadership Development** | Launch mentorship and leadership training for young/inexperienced managers. Standardize promotion criteria across departments. | Build a sustainable leadership pipeline, improve morale, and ensure fair career progression. | 
 | **Executive & Strategic Oversight** | Review budget allocation in cost‑heavy departments (Ops $7.62M salaries). Introduce wellness programs to reduce sick leave and monitor overtime hotspots in IT. | Optimize costs, improve employee well-being, reduce absenteeism, and overtime dependency. |
 
+### Key Imapact:
+
+These recommendations strengthen fairness, efficiency, and resilience across the workforce. By aligning pay with performance, balancing workloads, and investing in leadership development, the company can reduce risks of burnout, inequity, and capability gaps while building a sustainable talent pipeline.
+
+
 ### Limitations and Next Steps:
-- Data is limited for August 2024 for employees 
-- 
--
+- Data is limited for 2024 for employees 
+- No resignation date column in the dataset
+- Future: Integrate Python/Tableau for interactive dashboards or ML predictions.
 
 ### How to Run:
 - Clone the repository 
@@ -78,7 +84,9 @@ The company exhibits **structural imbalances**: hiring contraction and reduced r
 - That's it! You should now have a fully populated database ready for querying and further exploration.
 Feel free to modify the queries or extend the analysis. Contributions and suggestions are welcome!
 
-About Me: Data Analyst, passionate about sustainable finance. Connect on [LinkedIn](https://www.linkedin.com/in/vivek-sharma-b74950241/) | View more projects [here]. Thanks for visiting!
+### About Me: 
+
+Data Analyst, passionate about sustainable finance. Connect on [LinkedIn](https://www.linkedin.com/in/vivek-sharma-b74950241/) | View more projects [here](https://github.com/Clefyvivek). Thanks for visiting!
 
 
 
