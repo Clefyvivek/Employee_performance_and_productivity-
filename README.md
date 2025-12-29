@@ -22,7 +22,7 @@
 The company exhibits **structural imbalances**: hiring contraction and reduced resignations mask deeper issues in workload distribution, pay‑for‑performance alignment, and managerial capability; targeted interventions in workforce planning, compensation design, and training will improve productivity and equity.
 
 ### Key Insights (2020–2024 Workforce Analysis):
-| Metric / Trend | Headline Insight | Implication | Images |
+| Metric / Trend | Headline Insight | Implication | Query Results |
 | -------------- | ---------------- | ----------- | ------ |
 | **−32% hiring (2022→2024)** | Sharp contraction in workforce | Signals cost-cutting or slowed growth; risk of capability gaps | <img width="202" height="156" alt="image" src="https://github.com/user-attachments/assets/6549f7f6-132c-4215-97c9-ee8624a215b2" />|
 | **−34.6% resignations (2023→2024)** | Attrition declined despite hiring freeze | Suggests retention measures or limited external opportunities | <img width="193" height="168" alt="image" src="https://github.com/user-attachments/assets/04795ed6-305a-4091-94d7-acb2929a45ae" /> |
