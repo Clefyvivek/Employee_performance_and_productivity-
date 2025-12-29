@@ -43,16 +43,16 @@ The company exhibits **structural imbalances**: hiring contraction and reduced r
 
 ### Sample SQL Highlights:  -- Employees with top performance scores in various departments with 4 or more years at work
 
-                                                          
-                                                          SELECT 
-                                                           	Employee_ID,
-                                                           	Department,
-                                                              Job_Title,
-                                                              Performance_Score
-                                                          FROM employee_data
-                                                          WHERE Years_At_Company >= 4
-                                                          	AND Performance_Score = 5
-                                                          	AND Resigned = 'FALSE'
+    
+                                             SELECT 
+                                              	Employee_ID,
+                                               	Department,
+                                                Job_Title,
+                                                Performance_Score
+                                             FROM employee_data
+                                             WHERE Years_At_Company >= 4
+                                                	AND Performance_Score = 5
+                                                	AND Resigned = 'FALSE'
 
 
 
