@@ -78,7 +78,7 @@ The company exhibits **structural imbalances**: hiring contraction and reduced r
 - That's it! You should now have a fully populated database ready for querying and further exploration.
 Feel free to modify the queries or extend the analysis. Contributions and suggestions are welcome!
 
-About Me: Data Analyst, passionate about sustainable finance. Connect on [LinkedIn]([www.linkedin.com/in/vivek-sharma-b74950241](https://www.linkedin.com/in/vivek-sharma-b74950241/)) | View more projects [here]. Thanks for visiting!
+About Me: Data Analyst, passionate about sustainable finance. Connect on [LinkedIn](https://www.linkedin.com/in/vivek-sharma-b74950241/) | View more projects [here]. Thanks for visiting!
 
 
 
