@@ -57,7 +57,7 @@ The company exhibits **structural imbalances**: hiring contraction and reduced r
 
 
 
-### Recommendations Table: 
+### Recommendations: 
 | Stakeholder | Recommended Action | Expected Impact |
 |------------ | ------------------ | --------------- |
 | **HR & Workforce Planning** | Implement targeted hiring in critical departments (Ops, IT) and design retention programs beyond pay (career growth, recognition). | Close capability gaps, stabilize headcount, improve long‑term retention. |
