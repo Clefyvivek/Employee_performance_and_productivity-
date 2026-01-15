@@ -74,7 +74,7 @@ These recommendations strengthen fairness, efficiency, and resilience across the
 ### Limitations and Next Steps:
 - Data is limited for 2024 for employees 
 - No resignation date column in the dataset
-- Future: Integrate Python/Tableau for interactive dashboards or ML predictions.
+- Future: Integrate Python/Power BI for interactive dashboards or ML predictions.
 
 ### How to Run:
 - Clone the repository 
